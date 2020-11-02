@@ -1,0 +1,29 @@
+{
+  "name": "nextJsPOC",
+  "version": "1.0.0",
+  "description": "Server side rendering using NEXJS",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "NODE_ENV=production node server.js",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raku1089/nextJsPOC.git"
+  },
+  "keywords": [],
+  "author": "Rakesh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raku1089/nextJsPOC/issues"
+  },
+  "homepage": "https://github.com/raku1089/nextJsPOC#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "next": "^10.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sw-precache-webpack-plugin": "^1.0.0"
+  }
+}
