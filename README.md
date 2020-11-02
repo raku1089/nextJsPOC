@@ -1,9 +1,9 @@
-# nextJsPOC
+Server side rendering with NEXTJS.
+----------------------------
 
-`Server side rendering using NEXJS`
-`Routing`,
-`Service Worker`
-``PWA`
+`NEXJS`
+`ROUTING`
+`SERVICE WORKER`
+`PWA`
 
-Application URL:
-https://hnews-nextjs.herokuapp.com/
+Application URL:  https://hnews-nextjs.herokuapp.com/
